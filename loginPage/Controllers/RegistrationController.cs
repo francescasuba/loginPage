@@ -1,4 +1,4 @@
-﻿using loginPage.Models;
+﻿/*using loginPage.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Data.SqlTypes;
@@ -58,3 +58,4 @@ namespace loginPage.Controllers
         }
     }
 }
+*/

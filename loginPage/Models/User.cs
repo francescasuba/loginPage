@@ -1,6 +1,6 @@
 ﻿namespace loginPage.Models
 {
-    public class Registration
+    public class User
     {
         public int id { get; set; }
         public String username { get; set; }
